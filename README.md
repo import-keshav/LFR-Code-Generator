@@ -1,6 +1,12 @@
 # LFR Code Generator
 An applicaton that generates a code for the LineFollowerRobot (LFR).
 
+**Steps for the user**
+1) Uploads an image of track.
+2) Click on generate code button.
+3) After code gets generated, click on download button.
+4) Add code in bot and run it.
+
 ![](/Images/line-follower-logic.jpg)
 
 ![](/Images/MainView.png)

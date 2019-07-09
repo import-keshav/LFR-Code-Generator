@@ -5,14 +5,30 @@ An applicaton that generates a code for the LineFollowerRobot (LFR).
 
 ![](/Images/MainView.png)
 
-**Technologies Used** <br>
-  *For Client Side View*<br>
-    ElectronJs (Desktop App) <br>
-    React (Web App) <br>
-    Flutter (Mobile App) <br>
+**Technologies Used**
+<ul style="list-style-type:circle;">
 
-  *Web Server* <br>
-      Django <br>
+ <li>
+   <p>For Client Side View<p>
+   <ul>
+    <li>ElectronJs (Desktop App)</li>
+    <li>React (Web App)</li>
+    <li>Flutter (Mobile App)</li>
+   </ul>
+ </li>
 
-  *DataBase* <br>
-      MongoDB <br>
+ <li>
+  <p>Web Server</p>
+  <ul>
+   <li>Django</li>
+  </ul>
+ </li>
+
+ <li>
+  <p>DataBase</p>
+  <ul>
+   <li>MongoDB</li>
+  <ul>
+ </li>
+
+</ul>
